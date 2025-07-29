@@ -24,3 +24,8 @@ A simple and interactive **Calculator** built using Python for the terminal. It 
    ```bash
    git clone https://github.com/ShafilMomin/Calculator.git
    cd Calculator
+
+2. **Run the script:**
+    ```bash
+    python calculator.py
+  
