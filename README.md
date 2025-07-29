@@ -1,18 +1,26 @@
-# Python Calculator 🧮
+# 🧮 Calculator - Python Program
 
-A simple yet powerful calculator built with Python that supports basic arithmetic operations.
+A simple and interactive **Calculator** built using Python for the terminal. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+---
 
+## 📌 Features
 
-## Features ✨
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🔄 Continuous calculations
-- 🎨 ASCII-art styled UI
+- Perform **addition (+)**, **subtraction (-)**, **multiplication (*)**, and **division (/)**.
+- Chain calculations using previous results.
+- Clear and easy-to-use CLI interface with ASCII art logo.
+- Beginner-friendly and uses core Python concepts like:
+  - Functions
+  - Dictionaries
+  - Loops
+  - User input
 
-## How to Use 🚀
-1. Clone the repo:
+---
+
+## 🖥️ How to Run
+
+1. **Clone the repository:**
+
    ```bash
-  https://github.com/ShafilMomin/Calculator.git
+   git clone https://github.com/ShafilMomin/Calculator.git
+   cd Calculator
