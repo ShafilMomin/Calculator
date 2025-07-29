@@ -28,13 +28,7 @@ A simple and interactive **Calculator** built using Python for the terminal. It 
 2. **Run the script:**
     ```bash
     python calculator.py
-
-## 📁 Project Structure
-
-   Calculator/
-├── calculator.py      
-├── README.md         
-└── LICENSE           
+       
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to improve the project:
