@@ -31,9 +31,44 @@ A simple and interactive **Calculator** built using Python for the terminal. It 
 
 ## 📁 Project Structure
 
-  Calculator/
+   Calculator/
 ├── calculator.py      
 ├── README.md         
 └── LICENSE           
+
+## 🤝 Contributing
+Contributions are welcome! If you'd like to improve the project:
+
+1. Fork the repository
+
+2. Create a new branch
+
+```bash
+
+git checkout -b feature-branch
+```
+3. Commit your changes
+
+```bash
+
+git commit -m "Added new feature"
+```
+4. Push the branch
+
+```bash
+
+git push origin feature-branch
+```
+5. Open a pull request
+
+## 🙏 Acknowledgments
+Built with ❤️ using basic Python concepts
+
+Great beginner-friendly project to practice functions, loops, and dictionarie
+
+## 📎 Clone This Repo
+```bash
+git clone https://github.com/ShafilMomin/Calculator.git
+```
 
   
