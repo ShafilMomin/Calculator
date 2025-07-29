@@ -32,8 +32,8 @@ A simple and interactive **Calculator** built using Python for the terminal. It 
 ## 📁 Project Structure
 
   Calculator/
-├── calculator.py      # Main Python calculator script
-├── README.md          # Project documentation
-└── LICENSE            # MIT License
+├── calculator.py      
+├── README.md         
+└── LICENSE           
 
   
